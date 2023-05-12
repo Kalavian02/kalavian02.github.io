@@ -1,2 +1,2 @@
 # Check out my stuff
-https://kalavian02.github.io/Idle-Phone-Clicker/
+https://therealkalavian.github.io/Idle-Phone-Clicker/
